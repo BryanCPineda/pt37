@@ -1,1 +1,3 @@
-listado de presupuesto de compras
+listado de presupuesto de compras:
+
+$1 para salchicha

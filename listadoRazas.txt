@@ -1,1 +1,6 @@
 listado de razas de perritos: 
+
+pitbull
+sharpei
+gran danes
+salchicha
